@@ -22,15 +22,6 @@ This repository contains a comprehensive command-line pipeline for bacterial who
    ```bash
    git clone [repository URL]
    cd [repository name]
-
-## Install Dependencies:
-
-This pipeline requires a conda environment with the following packages installed:
-1. FastQC
-2. Trimmomatic
-3. Unicycler
-4. Prokka
-5. QUAST (optional)
    
 ## Data Preparation:
 
